@@ -1,0 +1,10 @@
+skibidsod.github.io/
+├── index.html
+├── style.css
+├── games/
+│   └── snake/
+│       ├── index.html
+│       ├── snake.js
+│       └── snake.css
+├── images/
+│   └── snake.png
