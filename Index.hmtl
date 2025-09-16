@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Skibidsod Games</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Skibidsod Games 🎮</h1>
+  <div class="games-grid">
+    <a href="games/2048/index.html" class="game-card">
+      <img src="images/2048.png" alt="2048">
+      <span>2048</span>
+    </a>
+  </div>
+</body>
+</html>
